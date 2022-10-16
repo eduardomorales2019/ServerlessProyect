@@ -1,0 +1,5 @@
+@media screen and (min-width: 800px)------ EN ESTE ESTA TODO EL CONTEDIO CSS PARA LA PAGINA!!! 
+
+@media screen and (min-width: 992px)------     <section class="section section-center examples">  VA DIRIGIDO A ESTE PUNTO EL CUAL ES EL   INFORMACION PRINCIPAL 
+
+
