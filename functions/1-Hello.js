@@ -17,6 +17,11 @@ exports.handler = async (event, context) => {
     statusCode: 200,
     body: "Esta es mi primer funcion en Netlify ",
 
+    // ERROR IN CASE
+
+    //statusCode: 404,
+    //body: "Data not available",
+
     // JSON.stringlify
     // body: JSON.stringify(person),
   };
