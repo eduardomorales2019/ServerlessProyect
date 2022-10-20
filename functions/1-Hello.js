@@ -1,6 +1,6 @@
 // domain :  domain/.netlify/functions/1-.Hello
 
-const { json } = require("stream/consumers");
+// const { json } = require("stream/consumers");
 
 // using strinfy with an object or arrya.------------
 
